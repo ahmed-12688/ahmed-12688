@@ -2,6 +2,7 @@
 ## 🚀 About Me
 I'm a software engineer
 
+[![Follow](https://img.shields.io/github/followers/ahmed-12688?label=Follow&style=social)](https://github.com/ahmedkarem)
 
 
 ## 🔗 Links
