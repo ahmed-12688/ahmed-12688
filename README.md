@@ -7,7 +7,7 @@ I'm a software engineer
 
 ## 🔗 Links
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-karem-4a529030b/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedkarem21/)
 
 
 ## 🛠 Skills
@@ -18,5 +18,5 @@ problem solving...
 
 **Langueges:** C++,C#...
 
-**Frameworks:** dotnet
+**Frameworks:** .NET
 
