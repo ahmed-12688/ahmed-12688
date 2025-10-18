@@ -1,22 +1,74 @@
+<p align="center">
+  <a href="https://github.com/ahmed-12688">
+    <img src="https://img.shields.io/badge/Computer Science Student 🇪🇬-272730?style=flat-square&logo=github" style="height:32px; object-fit:contain;"/></a> &nbsp;
+  <a href="https://www.linkedin.com/in/ahmedkarem21">
+    <img src="https://img.shields.io/badge/Ain Shams University-272730?style=flat-square&logo=graduation-cap&logoColor=white" style="height:32px; object-fit:contain;"/></a>
+</p>
 
-## 🚀 About Me
-I'm a software engineer
+<h1 align="center">Hi, I'm Ahmed Karem</h1>
 
-[![Follow](https://img.shields.io/github/followers/ahmed-12688?label=Follow&style=social)](https://github.com/ahmedkarem)
+<h2 align="center">Software Engineer | .NET Developer</h2>
+<br>
 
+<p align="center">
+  <a href="https://www.google.com.eg/search?q=Ahmed+Karem">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20Developer%20in%20Progress;Passionate%20about%20.NET%20Development;Always%20Learning%20New%20Tech&font=Bold%20Code&center=true&color=30F050&pause=2000"></a>
+</p>
 
-## 🔗 Links
+<p>
+  <a href="https://github.com/ahmed-12688">
+    <img src="https://komarev.com/ghpvc/?username=ahmed-12688&style=flat&color=3010A0" style="height:26px; object-fit:contain;"/></a>
+</p>
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedkarem21/)
+<p>
+  <a href="https://drive.google.com/file/d/18k9eJS3HQfgsyMWM3WMG68tgRnmE7aQM/view?usp=sharing">
+    <img src="https://img.shields.io/badge/My CV-005520?style=flat-square&logo=googledrive&logoColor=white" style="height:32px; object-fit:contain;"/></a>
+</p>
 
+#### `📤 Connect With Me`
 
-## 🛠 Skills
-problem solving...
+<p align="left">
+  <a href="mailto:karmahmd761@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height="43"/></a> &nbsp;
+  <a href="https://www.linkedin.com/in/ahmedkarem21">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="48"/></a> &nbsp;
+  <a href="https://github.com/ahmed-12688">
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="48"/></a> &nbsp;
+</p>
 
+---
 
-## Tech Stack
+#### `🧠 About Me`
 
-**Langueges:** C++,C#...
+🎓 Computer Science student at **Faculty of Computers and Information Science, Ain Shams University** (2024–2028).  
+💻 Focused on **Backend Development** using **C#**, **.NET Framework**, and **SQL Server**.  
+🔍 Solid understanding of **OOP**, **Data Structures**, and **Problem Solving**.  
+🚀 Passionate about building **efficient and scalable systems**.  
+📚 Always eager to **learn and improve** in the software engineering field.
 
-**Frameworks:** .NET
+---
 
+#### `🛠️ Technical Skills`
+
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,java,cs,dotnet,sqlserver,ado,git,github,oracle,visualstudio"/>
+</p>
+
+---
+
+#### `🏆 GitHub Trophies`
+
+<p align="left">
+  
+![trophy](https://github-profile-trophy.vercel.app/?username=ahmed-12688&theme=onestar&no-bg=true&no-frame=true&row=1&column=7)
+</p>
+<br>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-12688&layout=compact&langs_count=6&theme=highcontrast" height="125"/> &nbsp;
+  <img src="https://streak-stats.demolab.com/?user=ahmed-12688&theme=highcontrast" height="125"/>
+</p>
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+</p>
