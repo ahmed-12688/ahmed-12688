@@ -21,7 +21,7 @@
 </p>
 
 <p>
-  <a href="https://drive.google.com/file/d/18k9eJS3HQfgsyMWM3WMG68tgRnmE7aQM/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/150TclYwMj-Zvoal0erPz5KHiD_brEiql/view?usp=drive_link">
     <img src="https://img.shields.io/badge/My CV-005520?style=flat-square&logo=googledrive&logoColor=white" style="height:32px; object-fit:contain;"/></a>
 </p>
 
@@ -56,16 +56,8 @@
 
 ---
 
-#### `🏆 GitHub Trophies`
-
 <p align="left">
-  
-![trophy](https://github-profile-trophy.vercel.app/?username=ahmed-12688&theme=onestar&no-bg=true&no-frame=true&row=1&column=7)
-</p>
-<br>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-12688&layout=compact&langs_count=6&theme=highcontrast" height="125"/> &nbsp;
+ 
   <img src="https://streak-stats.demolab.com/?user=ahmed-12688&theme=highcontrast" height="125"/>
 </p>
 
